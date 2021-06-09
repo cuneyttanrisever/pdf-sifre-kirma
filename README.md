@@ -1,1 +1,3 @@
-# pdf-ifre-k-rma
+# Pdf Şifre Kırma
+şifre dosyasın ve kırılacak pdf adını düzenleyiniz.
+programı çalıştırınız.
