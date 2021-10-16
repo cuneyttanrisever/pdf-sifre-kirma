@@ -1,3 +1,3 @@
 # Pdf Şifre Kırma
-şifre dosyasın ve kırılacak pdf adını düzenleyiniz.
+şifre dosyasını ve kırılacak pdf adını düzenleyiniz.
 programı çalıştırınız.
